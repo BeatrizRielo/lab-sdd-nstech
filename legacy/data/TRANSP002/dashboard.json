@@ -1,0 +1,17 @@
+{
+  "transportadora": "TRANSP002",
+  "nome": "RodoVia Cargas",
+  "total_entregas": 89,
+  "taxa_sla": 92.1,
+  "distribuicao_status": {
+    "entregue": 72,
+    "em_transito": 10,
+    "atrasada": 7
+  },
+  "custo_total_frete": 178450.00,
+  "evolucao_mensal": [
+    { "mes": "2025-01", "entregas": 28 },
+    { "mes": "2025-02", "entregas": 30 },
+    { "mes": "2025-03", "entregas": 31 }
+  ]
+}

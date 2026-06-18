@@ -1,0 +1,17 @@
+{
+  "transportadora": "TRANSP001",
+  "nome": "TransLog Express",
+  "total_entregas": 150,
+  "taxa_sla": 87.3,
+  "distribuicao_status": {
+    "entregue": 110,
+    "em_transito": 25,
+    "atrasada": 15
+  },
+  "custo_total_frete": 245800.50,
+  "evolucao_mensal": [
+    { "mes": "2025-01", "entregas": 45 },
+    { "mes": "2025-02", "entregas": 52 },
+    { "mes": "2025-03", "entregas": 53 }
+  ]
+}

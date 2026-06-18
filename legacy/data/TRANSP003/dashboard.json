@@ -1,0 +1,17 @@
+{
+  "transportadora": "TRANSP003",
+  "nome": "AgroFrete Brasil",
+  "total_entregas": 210,
+  "taxa_sla": 78.6,
+  "distribuicao_status": {
+    "entregue": 145,
+    "em_transito": 20,
+    "atrasada": 45
+  },
+  "custo_total_frete": 520300.75,
+  "evolucao_mensal": [
+    { "mes": "2025-01", "entregas": 65 },
+    { "mes": "2025-02", "entregas": 72 },
+    { "mes": "2025-03", "entregas": 73 }
+  ]
+}

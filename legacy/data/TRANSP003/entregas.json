@@ -1,0 +1,59 @@
+{
+  "transportadora": "TRANSP003",
+  "entregas": [
+    {
+      "id": "ENT-201",
+      "status": "entregue",
+      "origem": "Rondonópolis, MT",
+      "destino": "Santos, SP",
+      "data_prevista": "2025-03-06",
+      "data_entrega": "2025-03-05",
+      "custo_frete": 4800.00
+    },
+    {
+      "id": "ENT-202",
+      "status": "atrasada",
+      "origem": "Sorriso, MT",
+      "destino": "Paranaguá, PR",
+      "data_prevista": "2025-03-03",
+      "data_entrega": "2025-03-10",
+      "custo_frete": 5200.00
+    },
+    {
+      "id": "ENT-203",
+      "status": "atrasada",
+      "origem": "Lucas do Rio Verde, MT",
+      "destino": "São Luís, MA",
+      "data_prevista": "2025-03-01",
+      "data_entrega": "2025-03-08",
+      "custo_frete": 7100.00
+    },
+    {
+      "id": "ENT-204",
+      "status": "em_transito",
+      "origem": "Barreiras, BA",
+      "destino": "Vitória da Conquista, BA",
+      "data_prevista": "2025-03-17",
+      "data_entrega": null,
+      "custo_frete": 2300.00
+    },
+    {
+      "id": "ENT-205",
+      "status": "entregue",
+      "origem": "Dourados, MS",
+      "destino": "Cascavel, PR",
+      "data_prevista": "2025-03-09",
+      "data_entrega": "2025-03-08",
+      "custo_frete": 1950.00
+    },
+    {
+      "id": "ENT-206",
+      "status": "atrasada",
+      "origem": "Sinop, MT",
+      "destino": "Itajaí, SC",
+      "data_prevista": "2025-03-02",
+      "data_entrega": "2025-03-09",
+      "custo_frete": 6800.00
+    }
+  ]
+}

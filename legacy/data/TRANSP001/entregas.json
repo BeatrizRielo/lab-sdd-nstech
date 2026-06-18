@@ -1,0 +1,77 @@
+{
+  "transportadora": "TRANSP001",
+  "entregas": [
+    {
+      "id": "ENT-001",
+      "status": "entregue",
+      "origem": "São Paulo, SP",
+      "destino": "Campinas, SP",
+      "data_prevista": "2025-03-10",
+      "data_entrega": "2025-03-09",
+      "custo_frete": 1250.00
+    },
+    {
+      "id": "ENT-002",
+      "status": "entregue",
+      "origem": "São Paulo, SP",
+      "destino": "Santos, SP",
+      "data_prevista": "2025-03-08",
+      "data_entrega": "2025-03-08",
+      "custo_frete": 980.00
+    },
+    {
+      "id": "ENT-003",
+      "status": "em_transito",
+      "origem": "Rio de Janeiro, RJ",
+      "destino": "Belo Horizonte, MG",
+      "data_prevista": "2025-03-15",
+      "data_entrega": null,
+      "custo_frete": 2100.00
+    },
+    {
+      "id": "ENT-004",
+      "status": "atrasada",
+      "origem": "Curitiba, PR",
+      "destino": "Florianópolis, SC",
+      "data_prevista": "2025-03-05",
+      "data_entrega": "2025-03-08",
+      "custo_frete": 1890.00
+    },
+    {
+      "id": "ENT-005",
+      "status": "entregue",
+      "origem": "Porto Alegre, RS",
+      "destino": "Caxias do Sul, RS",
+      "data_prevista": "2025-03-12",
+      "data_entrega": "2025-03-11",
+      "custo_frete": 750.00
+    },
+    {
+      "id": "ENT-006",
+      "status": "em_transito",
+      "origem": "Recife, PE",
+      "destino": "Salvador, BA",
+      "data_prevista": "2025-03-16",
+      "data_entrega": null,
+      "custo_frete": 3200.00
+    },
+    {
+      "id": "ENT-007",
+      "status": "atrasada",
+      "origem": "Manaus, AM",
+      "destino": "Belém, PA",
+      "data_prevista": "2025-03-02",
+      "data_entrega": "2025-03-07",
+      "custo_frete": 4500.00
+    },
+    {
+      "id": "ENT-008",
+      "status": "entregue",
+      "origem": "Goiânia, GO",
+      "destino": "Brasília, DF",
+      "data_prevista": "2025-03-09",
+      "data_entrega": "2025-03-09",
+      "custo_frete": 1100.00
+    }
+  ]
+}

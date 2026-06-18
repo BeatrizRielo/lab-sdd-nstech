@@ -1,0 +1,50 @@
+{
+  "transportadora": "TRANSP002",
+  "entregas": [
+    {
+      "id": "ENT-101",
+      "status": "entregue",
+      "origem": "Ribeirão Preto, SP",
+      "destino": "Uberlândia, MG",
+      "data_prevista": "2025-03-07",
+      "data_entrega": "2025-03-06",
+      "custo_frete": 1450.00
+    },
+    {
+      "id": "ENT-102",
+      "status": "entregue",
+      "origem": "Cuiabá, MT",
+      "destino": "Campo Grande, MS",
+      "data_prevista": "2025-03-10",
+      "data_entrega": "2025-03-10",
+      "custo_frete": 2800.00
+    },
+    {
+      "id": "ENT-103",
+      "status": "em_transito",
+      "origem": "Vitória, ES",
+      "destino": "Rio de Janeiro, RJ",
+      "data_prevista": "2025-03-14",
+      "data_entrega": null,
+      "custo_frete": 1680.00
+    },
+    {
+      "id": "ENT-104",
+      "status": "atrasada",
+      "origem": "Fortaleza, CE",
+      "destino": "Natal, RN",
+      "data_prevista": "2025-03-04",
+      "data_entrega": "2025-03-09",
+      "custo_frete": 2200.00
+    },
+    {
+      "id": "ENT-105",
+      "status": "entregue",
+      "origem": "Londrina, PR",
+      "destino": "Maringá, PR",
+      "data_prevista": "2025-03-11",
+      "data_entrega": "2025-03-10",
+      "custo_frete": 650.00
+    }
+  ]
+}
