@@ -2,7 +2,7 @@
 
 > **Duração:** ~30 minutos  
 > **Pré-requisitos:** Python 3.11+, VS Code com GitHub Copilot (Agent mode), Git  
-> **Cenário:** Modernizar CLI de tracking logístico da NSTECH para API REST + Portal Web
+> **Cenário:** Modernizar CLI de tracking logístico da RieloTECH para API REST + Portal Web
 
 ---
 
@@ -13,7 +13,7 @@ Clonar o repositório, verificar a CLI legada e entender a estrutura do projeto.
 
 ### Passos
 
-1. **Abra o terminal e clone o repositório:**
+1. **Abra o terminal e clone o repositório:** https://github.com/BeatrizRielo/lab-sdd-nstech.git
    ```bash
    git clone <url-do-repo> lab-sdd-nstech
    cd lab-sdd-nstech

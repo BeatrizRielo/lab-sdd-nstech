@@ -10,7 +10,7 @@
 - Criar `frontend/index.html` com tela de login mock
 - Criar `frontend/dashboard.html` (placeholder)
 - Criar `frontend/entregas.html` (placeholder)
-- Criar `frontend/css/style.css` com tema NSTECH
+- Criar `frontend/css/style.css` com tema RieloTECH
 - Criar `frontend/js/app.js` com lógica de login e navegação
 
 ## Task 1.3 — Configurar servimento de estáticos

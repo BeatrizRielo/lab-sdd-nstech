@@ -6,7 +6,7 @@ Este é um projeto de modernização de uma CLI Python legada de tracking logís
 
 **Domínio:** Logística e supply chain — tracking de entregas, SLA, custos de frete.
 
-**Cliente:** NSTECH — maior empresa de tecnologia para logística da América Latina.
+**Cliente:** RieloTECH — maior empresa de tecnologia para logística da América Latina.
 
 ## Metodologia: Spec-Driven Development (SDD)
 

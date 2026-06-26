@@ -8,7 +8,7 @@
 
 | Aspecto            | Informação                                         |
 | ------------------ | -------------------------------------------------- |
-| **Empresa/Time**   | NSTECH — Time de Modernização do Tracking           |
+| **Empresa/Time**   | RieloTECH — Time de Modernização do Tracking           |
 | **Domínio**        | Logística e supply chain — tracking de entregas     |
 | **Escala do time** | Pequeno (squad dedicado, <10 devs)                  |
 | **Canais**         | CLI legada (estado atual) e Web + API REST (alvo)   |
@@ -24,7 +24,7 @@
 
 ## 1. Contexto
 
-Existe uma aplicação interna em Python que recebe um código de transportadora via linha de comando e retorna, em formato textual, dados consolidados de tracking logístico (entregas em andamento, SLA, custos de frete, rotas ativas). Essa ferramenta é utilizada por times internos de operação e suporte da NSTECH.
+Existe uma aplicação interna em Python que recebe um código de transportadora via linha de comando e retorna, em formato textual, dados consolidados de tracking logístico (entregas em andamento, SLA, custos de frete, rotas ativas). Essa ferramenta é utilizada por times internos de operação e suporte da RieloTECH.
 
 A modernização visa transformar essa experiência em um **Portal Web (Frontend + Backend + API REST)**, preservando a regra de negócio e expondo contratos explícitos para reuso em outros canais (mobile, integrações B2B, parceiros).
 
@@ -139,5 +139,5 @@ Entregar uma versão web composta por:
 
 ---
 
-**Cliente:** NSTECH — Time de Modernização do Tracking  
+**Cliente:** RieloTECH — Time de Modernização do Tracking  
 **Equipe técnica:** Squad de modernização

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CLI Legada — Consulta de Tracking Logístico NSTECH
+CLI Legada — Consulta de Tracking Logístico RieloTECH
 Uso: python consulta_tracking.py <CODIGO_TRANSPORTADORA>
 
 Aplicação interna utilizada pelos times de operação e suporte.
