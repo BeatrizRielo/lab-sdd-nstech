@@ -67,8 +67,7 @@ Este repositório é cenário didático. Os agents e o participante **não** exe
 
 ## Cenário
 
-A **NSTECH** é a maior empresa de tecnologia para logística e supply chain da América Latina. Ela opera a plataforma **Open Logistics**, conectando embarcadores, transportadoras, motoristas e destinatários.
+A **RieloTECH** é a maior empresa de tecnologia para logística e supply chain da América Latina. Ela opera a plataforma **Open Logistics**, conectando embarcadores, transportadoras, motoristas e destinatários.
 
 Existe uma aplicação interna em Python (CLI) que recebe um código de transportadora via linha de comando e retorna dados consolidados de tracking de entregas (status, SLA, rotas, custos de frete). Essa ferramenta é utilizada por times internos de operação e suporte. A modernização visa transformar essa experiência em uma **API REST + Portal Web**, preservando regras de negócio e expondo contratos para reuso em outros canais (mobile, integrações B2B).
 
-Material didático interno — NSTECH · 2026
