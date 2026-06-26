@@ -19,6 +19,48 @@ lab-sdd-nstech/
 - VS Code com GitHub Copilot habilitado em **Agent mode**
 - Navegador moderno (Chrome/Edge)
 
+## Como executar a aplicação (local)
+
+### 1) Criar e ativar ambiente virtual
+
+```bash
+# na raiz do repositório
+python -m venv .venv
+
+# Windows (PowerShell)
+.\.venv\Scripts\Activate.ps1
+
+# Linux/macOS (bash/zsh)
+source .venv/bin/activate
+```
+
+### 2) Instalar dependências
+
+```bash
+pip install -r backend/requirements.txt
+```
+
+### 3) Subir a API + frontend estático
+
+```bash
+python -m uvicorn app.main:app --reload --app-dir backend
+```
+
+Após iniciar, acesse `http://127.0.0.1:8000/`.
+
+## Endpoints para validação
+
+Base URL local: `http://127.0.0.1:8000`
+
+| Tipo | Endpoint | Exemplo de uso |
+| --- | --- | --- |
+| Health check | `/health` | `GET /health` |
+| Swagger UI | `/docs` | Abrir no navegador |
+| OpenAPI JSON | `/openapi.json` | Abrir no navegador ou usar em clients |
+| Teste tracking (dashboard) | `/api/tracking/{codigo}/dashboard` | `GET /api/tracking/TRANSP001/dashboard` |
+| Teste tracking (entregas) | `/api/tracking/{codigo}/entregas` | `GET /api/tracking/TRANSP001/entregas` |
+| Teste tracking (frete) | `/api/tracking/{codigo}/frete` | `GET /api/tracking/TRANSP001/frete` |
+
 ## Lab local — sem operações remotas
 
 Este repositório é cenário didático. Os agents e o participante **não** executam `git push`, `gh pr create`, `docker push` ou qualquer publicação. Commits locais são permitidos quando solicitados.
